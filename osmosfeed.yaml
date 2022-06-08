@@ -3,9 +3,37 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# `cacheUrl`: A URL that contains previous build output. (required)
+cacheUrl: https://ideiaetica.github.io/bioetica/cache.json
+
+# `href`: A URL that returns content in RSS 1.0, RSS 2.0, or Atom format. (required for each source)
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.tandfonline.com/feed/rss/uajb20
+  - href: https://onlinelibrary.wiley.com/feed/14678519/most-recent
+  - href: https://onlinelibrary.wiley.com/feed/14718847/most-recent
+  - href: https://www.tandfonline.com/feed/rss/uabr21
+  - href: https://utpjournals.press/action/showFeed?ui=0&mi=48cc0h&type=search&feed=rss&query=%2526AllField%253Dijfab%2526sortBy%253DPpub%2526target%253Ddefault
+  - href: https://www.tandfonline.com/feed/rss/ynbi20
+  - href: https://academic.oup.com/rss/site_5443/3304.xml
+  - href: https://www.tandfonline.com/feed/rss/rgbe20
+  - href: https://intapi.sciendo.com/rss/journal/EBCE
+  - href: https://www.eubios.info/ejaib_journal
+  - href: http://aebioetica.org/cuadernos-de-bioetica.html
+  - href: https://actabioethica.uchile.cl/
+  - href: https://cjb-rcb.ca/index.php/cjb-rcb
+  - href: https://nibjournal.org/
+  - href: https://www.ethicsandmedicine.com/
+  - href: https://www.springer.com/journal/41649
+  - href: https://www.springer.com/journal/11017
+  - href: https://www.springer.com/journal/40592
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "bioetica.com.br"
+
+# `timezone`: Specify your local timezone so server can group content by weekday
+# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
+timezone: null
+
+# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
+cacheMaxDays: 30
