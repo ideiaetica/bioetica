@@ -1,626 +1,326 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "tandf: The American Journal of Bioethics: Table of Contents",
+      "feedUrl": "https://www.tandfonline.com/feed/rss/uajb20",
+      "siteUrl": "https://www.tandfonline.com/loi/uajb20?af=R",
+      "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R",
+          "author": "Lynn M. Paltrow",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R",
+          "publishedOn": "2022-06-02T03:01:40.000Z",
+          "wordCount": 258,
+          "title": "Beyond Abortion: The Consequences of Overturning Roe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075976?af=R",
+          "author": "Katie Watson",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075976?af=R",
+          "publishedOn": "2022-05-27T12:15:04.000Z",
+          "wordCount": 258,
+          "title": "The Ethics of Access: Reframing the Need for Abortion Care as a Health Disparity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R",
+          "author": "Andrew Childress",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R",
+          "publishedOn": "2022-05-26T12:20:16.000Z",
+          "wordCount": 258,
+          "title": "From Bridge to Destination? Ethical Considerations Related to Withdrawal of ECMO Support over the Objections of Capacitated Patients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R",
+          "author": "Bryanna Moore",
+          "description": "Volume 22, Issue 6, June 2022, Page 24-26\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R",
+          "publishedOn": "2022-05-26T03:35:47.000Z",
+          "wordCount": 258,
+          "title": "When Parents Prefer to Defer: Is ‘Deferral’ Always Problematic in Pediatric Decision-Making?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R",
+          "author": "Ian D. Wolfe",
+          "description": "Volume 22, Issue 6, June 2022, Page 26-28\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R",
+          "publishedOn": "2022-05-26T03:35:46.000Z",
+          "wordCount": 258,
+          "title": "When Clinicians Marginalize Decision-Makers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R",
+          "author": "Christina Lamb",
+          "description": "Volume 22, Issue 6, June 2022, Page 34-36\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R",
+          "publishedOn": "2022-05-26T03:35:45.000Z",
+          "wordCount": 258,
+          "title": "Voice, Vulnerability and Dependency of the Child: Guiding Concepts for Shared-Decision Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R",
+          "author": "Yoram Unguru",
+          "description": "Volume 22, Issue 6, June 2022, Page 31-33\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R",
+          "publishedOn": "2022-05-26T03:35:44.000Z",
+          "wordCount": 258,
+          "title": "Culturally Aware Communication Promotes Ethically Sensitive Care",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R",
+          "author": "Catherine Belling",
+          "description": "Volume 22, Issue 6, June 2022, Page 68-69\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R",
+          "publishedOn": "2022-05-26T03:35:43.000Z",
+          "wordCount": 258,
+          "title": "Respect for Readiness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R",
+          "author": "Mx Bex L. Forcier",
+          "description": "Volume 22, Issue 6, June 2022, Page 50-52\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R",
+          "publishedOn": "2022-05-26T03:35:41.000Z",
+          "wordCount": 258,
+          "title": "One Goal, Two Roles: Clinicians and Clinical Ethicists Should Approach Patients’ Ambivalence Differently",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R",
+          "author": "Rachel Asher",
+          "description": "Volume 22, Issue 6, June 2022, Page 61-63\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R",
+          "publishedOn": "2022-05-26T03:35:40.000Z",
+          "wordCount": 258,
+          "title": "Examining Interpersonal Factors in Patient Ambivalence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R",
+          "author": "Jaan Toelen",
+          "description": "Volume 22, Issue 6, June 2022, Page 29-30\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R",
+          "publishedOn": "2022-05-26T03:35:39.000Z",
+          "wordCount": 258,
+          "title": "Blood is Thicker than Water, or is It? The Possible Role of Stepparents in Pediatric Decision Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R",
+          "author": "Armand H. Matheny Antommaria",
+          "description": "Volume 22, Issue 6, June 2022, Page 22-24\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R",
+          "publishedOn": "2022-05-26T03:35:38.000Z",
+          "wordCount": 258,
+          "title": "Supporting Marginalized Decision-Maker’s Autonomy(ies)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R",
+          "author": "Andy Kondrat",
+          "description": "Volume 22, Issue 6, June 2022, Page 48-50\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R",
+          "publishedOn": "2022-05-26T03:35:36.000Z",
+          "wordCount": 258,
+          "title": "One Patient, No Good Options: The Real Roots of Ambivalence in Medical Decision Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R",
+          "author": "Annie B. Friedrich",
+          "description": "Volume 22, Issue 6, June 2022, Page 66-67\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R",
+          "publishedOn": "2022-05-26T03:35:35.000Z",
+          "wordCount": 258,
+          "title": "Exposing the Technological Roots of Ambivalence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R",
+          "author": "Michael James Redinger",
+          "description": "Volume 22, Issue 6, June 2022, Page 53-55\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R",
+          "publishedOn": "2022-05-26T03:35:34.000Z",
+          "wordCount": 258,
+          "title": "Appreciating the Role of the Unconscious in Situations of Patient Ambivalence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R",
+          "author": "Roy Dings",
+          "description": "Volume 22, Issue 6, June 2022, Page 58-60\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R",
+          "publishedOn": "2022-05-26T03:35:33.000Z",
+          "wordCount": 258,
+          "title": "The Role of Self-Illness Ambiguity and Self-Medication Ambiguity in Clinical Decision-Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R",
+          "author": "Samantha W. Stein",
+          "description": "Volume 22, Issue 6, June 2022, Page 1-3\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R",
+          "publishedOn": "2022-05-26T03:35:31.000Z",
+          "wordCount": 258,
+          "title": "Time Is Short, Social Relations Are Complex: Bioethics as Typology Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R",
+          "author": "Scott Gelfand",
+          "description": "Volume 22, Issue 6, June 2022, Page 63-65\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R",
+          "publishedOn": "2022-05-26T03:35:31.000Z",
+          "wordCount": 258,
+          "title": "Nudging, the Nocebo Effect, and Ambivalence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R",
+          "author": "Wynne Morrison",
+          "description": "Volume 22, Issue 6, June 2022, Page 17-19\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R",
+          "publishedOn": "2022-05-26T03:35:30.000Z",
+          "wordCount": 258,
+          "title": "Emotion as a Signpost in Complicated Pediatric Decision-Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R",
+          "author": "Kathrin Ohnsorge",
+          "description": "Volume 22, Issue 6, June 2022, Page 55-57\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R",
+          "publishedOn": "2022-05-26T03:35:07.000Z",
+          "wordCount": 258,
+          "title": "Ambivalence: The Patient’s Perspective Counts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R",
+          "author": "Erica K. Salter",
+          "description": "Volume 22, Issue 6, June 2022, Page 19-21\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R",
+          "publishedOn": "2022-05-26T03:35:05.000Z",
+          "wordCount": 258,
+          "title": "From “How” to “Why”: Reasons for Magnifying and Marginalizing Voices in Pediatric Decision-Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R",
+          "author": "James A. Anderson",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R",
+          "publishedOn": "2022-05-20T03:10:06.000Z",
+          "wordCount": 258,
+          "title": "Response to Open Peer Commentaries: On Social Harms, Big Tech, and Institutional Accountability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R",
+          "author": "Mary Ziegler",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R",
+          "publishedOn": "2022-05-20T03:07:57.000Z",
+          "wordCount": 258,
+          "title": "The End of Roe v. Wade",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "tandf: AJOB Empirical Bioethics: Table of Contents",
+      "feedUrl": "https://www.tandfonline.com/feed/rss/uabr21",
+      "siteUrl": "https://www.tandfonline.com/loi/uabr21?af=R",
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "tandf: Global Bioethics: Table of Contents",
+      "feedUrl": "https://www.tandfonline.com/feed/rss/rgbe20",
+      "siteUrl": "https://www.tandfonline.com/loi/rgbe20?af=R",
+      "articles": []
+    },
+    {
+      "title": "tandf: The New Bioethics: Table of Contents",
+      "feedUrl": "https://www.tandfonline.com/feed/rss/ynbi20",
+      "siteUrl": "https://www.tandfonline.com/loi/ynbi20?af=R",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=366147",
-          "author": "Geoff Graham",
-          "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
-          "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 937,
-          "title": "Let’s Make a QR Code Generator With a Serverless Function!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2067626?af=R",
+          "author": "Marta Rodriguez",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2067626?af=R",
+          "publishedOn": "2022-05-27T05:35:55.000Z",
+          "wordCount": 258,
+          "title": "The Feminine Body and the Culture of Care",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=366222",
-          "author": "Adam Rackis",
-          "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-interoperable-web-components-react/",
-          "publishedOn": "2022-06-07T13:57:57.000Z",
-          "wordCount": 3891,
-          "title": "Building Interoperable Web Components That Even Work With React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R",
+          "author": "Heather Browning",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R",
+          "publishedOn": "2022-05-25T07:30:27.000Z",
+          "wordCount": 258,
+          "title": "The sentience shift in animal research",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=366202",
-          "author": "Geoff Graham",
-          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/please-give-me-some-space/",
-          "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 732,
-          "title": "Please Give Me Some Space",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076789?af=R",
+          "author": "Trevor Stammers",
+          "description": "Volume 28, Issue 2, June 2022, Page 95-96\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076789?af=R",
+          "publishedOn": "2022-05-23T04:41:07.000Z",
+          "wordCount": 258,
+          "title": "Present policies and possible futures",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=365841",
-          "author": "Ganesh Dahal",
-          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
-          "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 3921,
-          "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076297?af=R",
+          "author": "Andrew Sloane",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076297?af=R",
+          "publishedOn": "2022-05-18T07:52:45.000Z",
+          "wordCount": 258,
+          "title": "Embodied trauma and healing: critical conversations on the concept of health",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=366175",
-          "author": "Geoff Graham",
-          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
-          "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 779,
-          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2073857?af=R",
+          "author": "Michal Pruski",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2073857?af=R",
+          "publishedOn": "2022-05-18T07:50:30.000Z",
+          "wordCount": 258,
+          "title": "The right to choose to abort an abortion: should pro-choice advocates support abortion pill reversal?",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=366068",
-          "author": "Geoff Graham",
-          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
-          "publishedOn": "2022-05-27T14:25:39.000Z",
-          "wordCount": 1285,
-          "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366107",
-          "author": "Geoff Graham",
-          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/beautify-github-profile/",
-          "publishedOn": "2022-05-26T18:13:28.000Z",
-          "wordCount": 349,
-          "title": "Beautify GitHub Profile",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365946",
-          "author": "Temani Afif",
-          "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
-          "publishedOn": "2022-05-26T14:13:01.000Z",
-          "wordCount": 2866,
-          "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366077",
-          "author": "Geoff Graham",
-          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
-          "publishedOn": "2022-05-26T00:15:29.000Z",
-          "wordCount": 321,
-          "title": "Customizing Color Fonts on the Web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365888",
-          "author": "Nicholas C. Zakas",
-          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
-          "publishedOn": "2022-05-25T14:08:33.000Z",
-          "wordCount": 3627,
-          "title": "A Perfect Table of Contents With HTML + CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365828",
-          "author": "Mariana Beldi",
-          "description": "So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.\nAfter a good …\nMastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/",
-          "publishedOn": "2022-05-24T14:04:17.000Z",
-          "wordCount": 1666,
-          "title": "Mastering SVG’s stroke-miterlimit Attribute",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365828"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365992",
-          "author": "Geoff Graham",
-          "description": "Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.\nThe use case? Well, …\nFirst Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/first-look-at-the-css-object-view-box-property/",
-          "publishedOn": "2022-05-23T19:15:53.000Z",
-          "wordCount": 363,
-          "title": "First Look At The CSS object-view-box Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365992"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365804",
-          "author": "Rob Levin",
-          "description": "As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …\nDialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/dialog-components-roll-your-own/",
-          "publishedOn": "2022-05-23T14:31:18.000Z",
-          "wordCount": 3341,
-          "title": "Dialog Components: Go Native HTML or Roll Your Own?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365971",
-          "author": "Geoff Graham",
-          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/verevolf/",
-          "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 390,
-          "title": "Verevolf",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365784",
-          "author": "Adam Rackis",
-          "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
-          "publishedOn": "2022-05-19T14:30:08.000Z",
-          "wordCount": 2102,
-          "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2071193?af=R",
+          "author": "Stephen Richards",
+          "description": "Volume 28, Issue 2, June 2022, Page 152-167\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2071193?af=R",
+          "publishedOn": "2022-05-13T04:25:20.000Z",
+          "wordCount": 258,
+          "title": "Kingdoms, priests and handmaidens: bioethics and its culture",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
-          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
-          "description": "CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().",
-          "link": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
-          "publishedOn": "2022-06-08T09:00:00.000Z",
-          "wordCount": 2586,
-          "title": "Simplify Your Color Palette With CSS Color-Mix()",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
-          "author": "hello@smashingmagazine.com (Alexey & Alexander)",
-          "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
-          "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
-          "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 2694,
-          "title": "Digital Museums For Digital History",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
-          "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
-          "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 2356,
-          "title": "The Case For Prisma In The Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
-          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
-          "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 4625,
-          "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
-          "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-          "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 4581,
-          "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
-          "author": "hello@smashingmagazine.com (Ken Harker)",
-          "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
-          "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
-          "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 4602,
-          "title": "Don’t Sink Your Website With Third Parties",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
-          "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
-          "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 2837,
-          "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask why accessibility really matters and why it is so important to get it right. Smashing’s Vitaly Friedman talks in-depth to Sara Soueidan to find out.",
-          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-47/",
-          "publishedOn": "2022-05-31T05:00:00.000Z",
-          "wordCount": 7694,
-          "title": "Smashing Podcast Episode 47 With Sara Soueidan: Why Does Accessibility Matter?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/81bf4897-467c-4f52-a253-ed207834c9a1/smashing-podcast-episode-47.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/81bf4897-467c-4f52-a253-ed207834c9a1/smashing-podcast-episode-47.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
-          "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
-          "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 3311,
-          "title": "What’s That (Dev) Tool?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "author": "hello@smashingmagazine.com (Vijay Verma)",
-          "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
-          "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 3057,
-          "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
-          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
-          "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
-          "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
-          "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 2866,
-          "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1fd91360-3b48-4a72-9280-c778dc5dc53d/manage-accessible-design-system-themes-with-css-color-contrast-card-v2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "author": "hello@smashingmagazine.com (Frank Joseph)",
-          "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 2101,
-          "title": "Understanding Weak Reference In JavaScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "author": "hello@smashingmagazine.com (Kata Nagygyörgy & Diana Lakatos)",
-          "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
-          "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 6325,
-          "title": "Developing An Award-Winning Onboarding Process (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
-          "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 3774,
-          "title": "Lesser-Known And Underused CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-          "author": "hello@smashingmagazine.com (Greg Dickens)",
-          "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
-          "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-          "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4346,
-          "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
-          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
-          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3079,
-          "title": "Kubernetes For Frontend Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.",
-          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "publishedOn": "2022-05-17T11:00:00.000Z",
-          "wordCount": 7077,
-          "title": "Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
-          "author": "hello@smashingmagazine.com (Nick Babich)",
-          "description": "Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.",
-          "link": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
-          "publishedOn": "2022-05-17T10:30:00.000Z",
-          "wordCount": 2111,
-          "title": "The Modern Way To Create And Host A WordPress Site",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
-          "author": "hello@smashingmagazine.com (Sean Roberts)",
-          "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
-          "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
-          "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5114,
-          "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
-          "author": "hello@smashingmagazine.com (Gerry McGovern)",
-          "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
-          "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
-          "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3230,
-          "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
-          "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4379,
-          "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "author": "hello@smashingmagazine.com (Denis Studennikov)",
-          "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
-          "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "publishedOn": "2022-05-11T10:00:00.000Z",
-          "wordCount": 2091,
-          "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
-          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "publishedOn": "2022-05-10T10:00:00.000Z",
-          "wordCount": 2393,
-          "title": "Magical SVG Techniques",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The enumerate() function in Python takes in a data collection as a parameter and returns an enumerate object.  The enumerate object is returned in a key-value pair format. The key is the corresponding index of each item and the value is the items.  In this article, we'll see",
-          "link": "https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/",
-          "publishedOn": "2022-06-08T19:56:15.000Z",
-          "wordCount": 915,
-          "title": "Python enumerate() – What is the Enumerate Function in Python?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/edge2edge-media-uKlneQRwaxY-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
-          "author": "Dillion Megida",
-          "description": "If you're using a user interface, you can right-click on a directory and select \"Delete\" or \"Move to Bin\". But how do you do this on the terminal? I'll explain that in this article. How to Remove a Directory in Linux There are two ways to remove directories in Linux:",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/",
-          "publishedOn": "2022-06-08T17:11:56.000Z",
-          "wordCount": 1016,
-          "title": "How to Remove a Directory in Linux – Delete a Folder Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/delete-folders-command.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
-          "author": "Obumuneme Nwabude",
-          "description": "In this article, you will learn how to convert any user interface image, piece, or screen into Flutter [https://flutter.dev] code. This is not a tutorial on building an app. It is rather a guide that will help you implement any UI you come across into an app you already have.",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/",
-          "publishedOn": "2022-06-08T15:22:36.000Z",
-          "wordCount": 2664,
-          "title": "How to Implement Any UI in Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/anyuicover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
-          "author": "Beau Carnes",
-          "description": "Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
-          "link": "https://www.freecodecamp.org/news/speech-recognition-in-python/",
-          "publishedOn": "2022-06-08T14:10:46.000Z",
-          "wordCount": 576,
-          "title": "Speech Recognition in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/speachai.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-react-components/",
-          "author": "Spruce Emmanuel",
-          "description": "I wrote the article \"How to Search and Filter Components in React\" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to",
-          "link": "https://www.freecodecamp.org/news/how-to-react-components/",
-          "publishedOn": "2022-06-07T23:37:17.000Z",
-          "wordCount": 1564,
-          "title": "React Components – How to Create a Search, Filter, and Pagination Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/wirxeocmd6tpnn9c5oqc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
-          "author": "Abdullah Adeel",
-          "description": "FastAPI [https://fastapi.tiangolo.com/] is a modern, fast, battle tested and light-weight web development framework written in Python. Other popular options in the space are Django [https://www.djangoproject.com/], Flask [https://flask.palletsprojects.com/en/2.1.x/]and Bottle [https://bottlepy.org/docs/dev/]. And since it's new, FastAPI comes with both advantages and disadvantages. On the positive side, FastAPI implements all the modern standards,",
-          "link": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
-          "publishedOn": "2022-06-07T23:28:25.000Z",
-          "wordCount": 2228,
-          "title": "How to Add JWT Authentication in FastAPI – A Practical Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fcc-fastapi-jwt-auth.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're learning a new programming language, you'll often see the first program called a \"Hello World\" program. It's used in most cases as a simple program for beginners.  I will assume that you're either reading this article as a beginner to the Java programming language or you're here",
-          "link": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
-          "publishedOn": "2022-06-07T17:13:21.000Z",
-          "wordCount": 912,
-          "title": "Hello World in Java – Example Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/helloWorld.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
-          "author": "Kolade Chris",
-          "description": "Back in the days of HTML4, there was a  tag you could use to change the font size, font family, and the color of a text. But with HTML5, the  tag has been deprecated. So if you want to change anything related to the font, you have to",
-          "link": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
-          "publishedOn": "2022-06-07T16:41:40.000Z",
-          "wordCount": 1142,
-          "title": "How to Change Font with HTML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/abc-3523454_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
-          "author": "Gerard Hynes",
-          "description": "Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an",
-          "link": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
-          "publishedOn": "2022-06-07T15:29:11.000Z",
-          "wordCount": 3214,
-          "title": "How to Manage PostgreSQL Databases from the Command Line with psql",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/manage-postgreSQL-with-psql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk a bit about technical interviews. I'll share a few tips that, based on my experience, might help you go through these interviews successfully. I originally wrote this article more than a year ago, before getting my first job offer as a",
-          "link": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "publishedOn": "2022-06-06T22:50:19.000Z",
-          "wordCount": 4011,
-          "title": "How to Prepare for Technical Interviews – Problem-Solving Tips + Mindset Tricks to Get You Ready",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-christina-morillo-1181345.jpg"
-        }
-      ]
+      "title": "University of Toronto Press: Keyword search for query",
+      "feedUrl": "https://utpjournals.press/action/showFeed?ui=0&mi=48cc0h&type=search&feed=rss&query=%2526AllField%253Dijfab%2526sortBy%253DPpub%2526target%253Ddefault",
+      "siteUrl": "https://utpjournals.press/action/doSearch?type=advanced&mi=48cc0h&af=R&AllField=ijfab&sortBy=Ppub&target=default",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"
