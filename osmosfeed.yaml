@@ -16,16 +16,16 @@ sources:
   - href: https://www.tandfonline.com/feed/rss/ynbi20
   - href: https://academic.oup.com/rss/site_5443/3304.xml
   - href: https://www.tandfonline.com/feed/rss/rgbe20
-  - href: https://intapi.sciendo.com/rss/journal/EBCE
-  - href: https://www.eubios.info/ejaib_journal
-  - href: http://aebioetica.org/cuadernos-de-bioetica.html
-  - href: https://actabioethica.uchile.cl/
-  - href: https://cjb-rcb.ca/index.php/cjb-rcb
-  - href: https://nibjournal.org/
-  - href: https://www.ethicsandmedicine.com/
-  - href: https://www.springer.com/journal/41649
-  - href: https://www.springer.com/journal/11017
-  - href: https://www.springer.com/journal/40592
+#  - href: https://intapi.sciendo.com/rss/journal/EBCE
+#  - href: https://www.eubios.info/ejaib_journal
+#  - href: http://aebioetica.org/cuadernos-de-bioetica.html
+#  - href: https://actabioethica.uchile.cl/
+#  - href: https://cjb-rcb.ca/index.php/cjb-rcb
+#  - href: https://nibjournal.org/
+#  - href: https://www.ethicsandmedicine.com/
+#  - href: https://www.springer.com/journal/41649
+#  - href: https://www.springer.com/journal/11017
+#  - href: https://www.springer.com/journal/40592
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "bioetica.com.br"
