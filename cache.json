@@ -214,26 +214,6 @@
           "wordCount": 258,
           "title": "From “How” to “Why”: Reasons for Magnifying and Marginalizing Voices in Pediatric Decision-Making",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R",
-          "author": "James A. Anderson",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R",
-          "publishedOn": "2022-05-20T03:10:06.000Z",
-          "wordCount": 258,
-          "title": "Response to Open Peer Commentaries: On Social Harms, Big Tech, and Institutional Accountability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R",
-          "author": "Mary Ziegler",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R",
-          "publishedOn": "2022-05-20T03:07:57.000Z",
-          "wordCount": 258,
-          "title": "The End of Roe v. Wade",
-          "imageUrl": null
         }
       ]
     },
@@ -303,5 +283,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

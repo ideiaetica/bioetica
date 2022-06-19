@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-06-18T01:20:11.679Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T01:25:17.303Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
     <entry>
@@ -273,26 +273,6 @@
 .]]></summary>
         <author>
             <name>Trevor Stammers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Response to Open Peer Commentaries: On Social Harms, Big Tech, and Institutional Accountability]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075977?af=R"/>
-        <updated>2022-05-20T03:10:06.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>James A. Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Roe v. Wade]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075962?af=R"/>
-        <updated>2022-05-20T03:07:57.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Mary Ziegler</name>
         </author>
     </entry>
 </feed>
