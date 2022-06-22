@@ -6,6 +6,16 @@
       "siteUrl": "https://www.tandfonline.com/loi/uajb20?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089291?af=R",
+          "author": "Barend W. Florijn",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089291?af=R",
+          "publishedOn": "2022-06-21T02:32:39.000Z",
+          "wordCount": 342,
+          "title": "The Principle of Autonomy in Biomedical- and Neuroethics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089277?af=R",
           "author": "Giles Scofield",
           "description": ".",
@@ -282,16 +292,6 @@
           "publishedOn": "2022-05-25T07:30:27.000Z",
           "wordCount": 258,
           "title": "The sentience shift in animal research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076789?af=R",
-          "author": "Trevor Stammers",
-          "description": "Volume 28, Issue 2, June 2022, Page 95-96\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2076789?af=R",
-          "publishedOn": "2022-05-23T04:41:07.000Z",
-          "wordCount": 258,
-          "title": "Present policies and possible futures",
           "imageUrl": null
         }
       ]
