@@ -251,7 +251,18 @@
       "title": "tandf: AJOB Empirical Bioethics: Table of Contents",
       "feedUrl": "https://www.tandfonline.com/feed/rss/uabr21",
       "siteUrl": "https://www.tandfonline.com/loi/uabr21?af=R",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R",
+          "author": "Holly Fernandez Lynch",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R",
+          "publishedOn": "2022-06-22T07:18:37.000Z",
+          "wordCount": 342,
+          "title": "How Do Accredited Organizations Evaluate the Quality and Effectiveness of Their Human Research Protection Programs?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "tandf: Global Bioethics: Table of Contents",
@@ -303,5 +314,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
