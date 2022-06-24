@@ -6,6 +6,146 @@
       "siteUrl": "https://www.tandfonline.com/loi/uajb20?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R",
+          "author": "Marisa A. Leib-Neri",
+          "description": "Volume 22, Issue 7, July 2022, Page 70-72\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R",
+          "publishedOn": "2022-06-23T04:22:09.000Z",
+          "wordCount": 342,
+          "title": "Privacy and the Genetic Community",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075971?af=R",
+          "author": "Maya Sabatello",
+          "description": "Volume 22, Issue 7, July 2022, Page 43-46\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075971?af=R",
+          "publishedOn": "2022-06-23T04:22:06.000Z",
+          "wordCount": 342,
+          "title": "Wrongful Birth: AI-Tools for Moral Decisions in Clinical Care in the Absence of Disability Ethics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075970?af=R",
+          "author": "Joseph P. DeMarco",
+          "description": "Volume 22, Issue 7, July 2022, Page 21-23\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075970?af=R",
+          "publishedOn": "2022-06-23T04:22:04.000Z",
+          "wordCount": 342,
+          "title": "Implicit Fuzzy Specifications, Inferior to Explicit Balancing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075056?af=R",
+          "author": "Craig M. Klugman",
+          "description": "Volume 22, Issue 7, July 2022, Page 35-37\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075056?af=R",
+          "publishedOn": "2022-06-23T04:22:03.000Z",
+          "wordCount": 342,
+          "title": "Rise of the Bioethics AI: Curse or Blessing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075055?af=R",
+          "author": "Nikola Biller-Andorno",
+          "description": "Volume 22, Issue 7, July 2022, Page 23-25\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075055?af=R",
+          "publishedOn": "2022-06-23T04:22:01.000Z",
+          "wordCount": 342,
+          "title": "In Search of a Mission: Artificial Intelligence in Clinical Ethics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075054?af=R",
+          "author": "Danton Char",
+          "description": "Volume 22, Issue 7, July 2022, Page 38-40\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075054?af=R",
+          "publishedOn": "2022-06-23T04:21:58.000Z",
+          "wordCount": 342,
+          "title": "Important Design Questions for Algorithmic Ethics Consultation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075053?af=R",
+          "author": "Torbjørn Gundersen",
+          "description": "Volume 22, Issue 7, July 2022, Page 26-28\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075053?af=R",
+          "publishedOn": "2022-06-23T04:21:54.000Z",
+          "wordCount": 342,
+          "title": "Ethical Algorithmic Advice: Some Reasons to Pause and Think Twice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076409?af=R",
+          "author": "Leah R. Eisenberg",
+          "description": "Volume 22, Issue 7, July 2022, Page 93-94\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076409?af=R",
+          "publishedOn": "2022-06-23T04:21:50.000Z",
+          "wordCount": 342,
+          "title": "“For Your Own Good”? Is It Ethical to Use Chemical Restraints on Patients Who Lack Capacity but Wish to Leave the Hospital against Medical Advice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075979?af=R",
+          "author": "Paul L. Schneider",
+          "description": "Volume 22, Issue 7, July 2022, Page 100-102\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075979?af=R",
+          "publishedOn": "2022-06-23T04:21:48.000Z",
+          "wordCount": 342,
+          "title": "The Medical Incapacity Hold—the Most Appropriate Solution to a Complex Clinical Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075978?af=R",
+          "author": "Chelsey Patten",
+          "description": "Volume 22, Issue 7, July 2022, Page 97-100\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075978?af=R",
+          "publishedOn": "2022-06-23T04:21:45.000Z",
+          "wordCount": 342,
+          "title": "When Protection From Risk-to-Self Causes Harm: A Brief Analysis of Restraint Use to Prevent Elopement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076405?af=R",
+          "author": "Anita L. Allen",
+          "description": "Volume 22, Issue 7, July 2022, Page 60-63\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076405?af=R",
+          "publishedOn": "2022-06-23T04:21:44.000Z",
+          "wordCount": 342,
+          "title": "Privacy, Health, and Race Equity in the Digital Age",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076406?af=R",
+          "author": "Anita J. Tarzian",
+          "description": "Volume 22, Issue 7, July 2022, Page 84-85\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076406?af=R",
+          "publishedOn": "2022-06-23T04:21:44.000Z",
+          "wordCount": 342,
+          "title": "Who’s Abandoning Whom? The Role of Ethics Consultation for Unaccompanied Emergency Department Patients with Dementia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075975?af=R",
+          "author": "Erika Versalovic",
+          "description": "Volume 22, Issue 7, July 2022, Page 63-65\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075975?af=R",
+          "publishedOn": "2022-06-23T04:21:41.000Z",
+          "wordCount": 342,
+          "title": "Data, Privacy, and Agency: Beyond Transparency to Empowerment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075974?af=R",
+          "author": "Kenneth A. Berkowitz",
+          "description": "Volume 22, Issue 7, July 2022, Page 73-75\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075974?af=R",
+          "publishedOn": "2022-06-23T04:21:39.000Z",
+          "wordCount": 342,
+          "title": "Healthcare Organizations Should Be Accountable Stewards of Patient Data",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089291?af=R",
           "author": "Barend W. Florijn",
           "description": ".",
@@ -293,16 +433,6 @@
           "publishedOn": "2022-05-27T05:35:55.000Z",
           "wordCount": 258,
           "title": "The Feminine Body and the Culture of Care",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R",
-          "author": "Heather Browning",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R",
-          "publishedOn": "2022-05-25T07:30:27.000Z",
-          "wordCount": 258,
-          "title": "The sentience shift in animal research",
           "imageUrl": null
         }
       ]

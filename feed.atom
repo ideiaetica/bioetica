@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-06-23T01:15:52.111Z</updated>
+    <updated>2022-06-24T01:19:51.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Privacy and the Genetic Community]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R"/>
+        <updated>2022-06-23T04:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 70-72
+.]]></summary>
+        <author>
+            <name>Marisa A. Leib-Neri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrongful Birth: AI-Tools for Moral Decisions in Clinical Care in the Absence of Disability Ethics]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075971?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075971?af=R"/>
+        <updated>2022-06-23T04:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 43-46
+.]]></summary>
+        <author>
+            <name>Maya Sabatello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implicit Fuzzy Specifications, Inferior to Explicit Balancing]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075970?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075970?af=R"/>
+        <updated>2022-06-23T04:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 21-23
+.]]></summary>
+        <author>
+            <name>Joseph P. DeMarco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rise of the Bioethics AI: Curse or Blessing?]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075056?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075056?af=R"/>
+        <updated>2022-06-23T04:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 35-37
+.]]></summary>
+        <author>
+            <name>Craig M. Klugman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Search of a Mission: Artificial Intelligence in Clinical Ethics]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075055?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075055?af=R"/>
+        <updated>2022-06-23T04:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 23-25
+.]]></summary>
+        <author>
+            <name>Nikola Biller-Andorno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Important Design Questions for Algorithmic Ethics Consultation]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075054?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075054?af=R"/>
+        <updated>2022-06-23T04:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 38-40
+.]]></summary>
+        <author>
+            <name>Danton Char</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethical Algorithmic Advice: Some Reasons to Pause and Think Twice]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075053?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075053?af=R"/>
+        <updated>2022-06-23T04:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 26-28
+.]]></summary>
+        <author>
+            <name>Torbjørn Gundersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“For Your Own Good”? Is It Ethical to Use Chemical Restraints on Patients Who Lack Capacity but Wish to Leave the Hospital against Medical Advice?]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076409?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076409?af=R"/>
+        <updated>2022-06-23T04:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 93-94
+.]]></summary>
+        <author>
+            <name>Leah R. Eisenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Medical Incapacity Hold—the Most Appropriate Solution to a Complex Clinical Problem]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075979?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075979?af=R"/>
+        <updated>2022-06-23T04:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 100-102
+.]]></summary>
+        <author>
+            <name>Paul L. Schneider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Protection From Risk-to-Self Causes Harm: A Brief Analysis of Restraint Use to Prevent Elopement]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075978?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075978?af=R"/>
+        <updated>2022-06-23T04:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 97-100
+.]]></summary>
+        <author>
+            <name>Chelsey Patten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy, Health, and Race Equity in the Digital Age]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076405?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076405?af=R"/>
+        <updated>2022-06-23T04:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 60-63
+.]]></summary>
+        <author>
+            <name>Anita L. Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s Abandoning Whom? The Role of Ethics Consultation for Unaccompanied Emergency Department Patients with Dementia]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076406?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2076406?af=R"/>
+        <updated>2022-06-23T04:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 84-85
+.]]></summary>
+        <author>
+            <name>Anita J. Tarzian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data, Privacy, and Agency: Beyond Transparency to Empowerment]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075975?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075975?af=R"/>
+        <updated>2022-06-23T04:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 63-65
+.]]></summary>
+        <author>
+            <name>Erika Versalovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healthcare Organizations Should Be Accountable Stewards of Patient Data]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075974?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075974?af=R"/>
+        <updated>2022-06-23T04:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 73-75
+.]]></summary>
+        <author>
+            <name>Kenneth A. Berkowitz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do Accredited Organizations Evaluate the Quality and Effectiveness of Their Human Research Protection Programs?]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R</id>
@@ -292,16 +446,6 @@
 .]]></summary>
         <author>
             <name>Erica K. Salter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sentience shift in animal research]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2077681?af=R"/>
-        <updated>2022-05-25T07:30:27.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Heather Browning</name>
         </author>
     </entry>
 </feed>
