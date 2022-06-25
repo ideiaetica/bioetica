@@ -2,10 +2,185 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-06-24T01:19:51.016Z</updated>
+    <updated>2022-06-25T01:38:28.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Institutional Review Board Use of Outside Experts: A National Survey]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090459?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090459?af=R"/>
+        <updated>2022-06-24T02:39:22.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Kimberley Serpico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Case of Patient Abandonment, or an Abandonment of Patients?]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075961?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075961?af=R"/>
+        <updated>2022-06-23T04:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 86-87
+.]]></summary>
+        <author>
+            <name>Jason Karlawish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethical Restraint Use With Incapable Absconding Patients: Goals, Proportionality, and Surrogates]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075960?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075960?af=R"/>
+        <updated>2022-06-23T04:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 95-97
+.]]></summary>
+        <author>
+            <name>Tyler S. Gibb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulatory Angels and Technology Demons? Making Sense of Evolving Realities in Health Data Privacy for the Digital Age]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075981?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075981?af=R"/>
+        <updated>2022-06-23T04:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 68-70
+.]]></summary>
+        <author>
+            <name>Vasiliki Rahimzadeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Health Privacy through Reasonable Inferences]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075980?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075980?af=R"/>
+        <updated>2022-06-23T04:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 65-68
+.]]></summary>
+        <author>
+            <name>Brent Mittelstadt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An All-Too-Human Enterprise]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075969?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075969?af=R"/>
+        <updated>2022-06-23T04:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 33-35
+.]]></summary>
+        <author>
+            <name>Tod Chambers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use AI Ethically for Ethical Decision-Making]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075968?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075968?af=R"/>
+        <updated>2022-06-23T04:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 1-3
+.]]></summary>
+        <author>
+            <name>Joanna Demaree-Cotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Algorithms to Make Ethical Judgements: METHAD vs. the ADC Model]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075967?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075967?af=R"/>
+        <updated>2022-06-23T04:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 41-43
+.]]></summary>
+        <author>
+            <name>Allen Coin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Privacy, Racialization, and the Causal Potential of Legal Regulations]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075966?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075966?af=R"/>
+        <updated>2022-06-23T04:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 76-78
+.]]></summary>
+        <author>
+            <name>Joanna K. Malinowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alzheimer’s Disease and the Invisible Person: The Missing Patient Voice]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075964?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075964?af=R"/>
+        <updated>2022-06-23T04:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 87-90
+.]]></summary>
+        <author>
+            <name>Garson Leder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patient Abandonment in the Emergency Department?]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075963?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075963?af=R"/>
+        <updated>2022-06-23T04:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 90-92
+.]]></summary>
+        <author>
+            <name>Gerardo R. Maradiaga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Needed for Ethical Decision Making Does Not Exist]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075052?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075052?af=R"/>
+        <updated>2022-06-23T04:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 46-49
+.]]></summary>
+        <author>
+            <name>Amelia Barwise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Justice: An Ethical Responsibility of Computational Bioethics]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075051?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075051?af=R"/>
+        <updated>2022-06-23T04:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 30-33
+.]]></summary>
+        <author>
+            <name>Vasiliki Rahimzadeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIgorithmic Ethics: A Technically Sweet Solution to a Non-Problem]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075050?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075050?af=R"/>
+        <updated>2022-06-23T04:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 28-30
+.]]></summary>
+        <author>
+            <name>Aurelia Sauerbrei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Privacy While Optimizing the Use of (Health)Data: The Importance of Measures and Safeguards]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075973?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075973?af=R"/>
+        <updated>2022-06-23T04:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 79-81
+.]]></summary>
+        <author>
+            <name>Julie-Anne R. Smit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disproof of Concept: Resolving Ethical Dilemmas Using Algorithms]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2087789?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2087789?af=R"/>
+        <updated>2022-06-23T04:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Volume 22, Issue 7, July 2022, Page 81-83
+.]]></summary>
+        <author>
+            <name>Bryan Pilkington</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Privacy and the Genetic Community]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R</id>
@@ -238,214 +413,6 @@
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Marta Rodriguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Bridge to Destination? Ethical Considerations Related to Withdrawal of ECMO Support over the Objections of Capacitated Patients]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R"/>
-        <updated>2022-05-26T12:20:16.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Andrew Childress</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Parents Prefer to Defer: Is ‘Deferral’ Always Problematic in Pediatric Decision-Making?]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R"/>
-        <updated>2022-05-26T03:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 24-26
-.]]></summary>
-        <author>
-            <name>Bryanna Moore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Clinicians Marginalize Decision-Makers]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R"/>
-        <updated>2022-05-26T03:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 26-28
-.]]></summary>
-        <author>
-            <name>Ian D. Wolfe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice, Vulnerability and Dependency of the Child: Guiding Concepts for Shared-Decision Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R"/>
-        <updated>2022-05-26T03:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 34-36
-.]]></summary>
-        <author>
-            <name>Christina Lamb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Culturally Aware Communication Promotes Ethically Sensitive Care]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R"/>
-        <updated>2022-05-26T03:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 31-33
-.]]></summary>
-        <author>
-            <name>Yoram Unguru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respect for Readiness]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R"/>
-        <updated>2022-05-26T03:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 68-69
-.]]></summary>
-        <author>
-            <name>Catherine Belling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Goal, Two Roles: Clinicians and Clinical Ethicists Should Approach Patients’ Ambivalence Differently]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R"/>
-        <updated>2022-05-26T03:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 50-52
-.]]></summary>
-        <author>
-            <name>Mx Bex L. Forcier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining Interpersonal Factors in Patient Ambivalence]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R"/>
-        <updated>2022-05-26T03:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 61-63
-.]]></summary>
-        <author>
-            <name>Rachel Asher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blood is Thicker than Water, or is It? The Possible Role of Stepparents in Pediatric Decision Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R"/>
-        <updated>2022-05-26T03:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 29-30
-.]]></summary>
-        <author>
-            <name>Jaan Toelen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting Marginalized Decision-Maker’s Autonomy(ies)]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R"/>
-        <updated>2022-05-26T03:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 22-24
-.]]></summary>
-        <author>
-            <name>Armand H. Matheny Antommaria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Patient, No Good Options: The Real Roots of Ambivalence in Medical Decision Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R"/>
-        <updated>2022-05-26T03:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 48-50
-.]]></summary>
-        <author>
-            <name>Andy Kondrat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposing the Technological Roots of Ambivalence]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R"/>
-        <updated>2022-05-26T03:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 66-67
-.]]></summary>
-        <author>
-            <name>Annie B. Friedrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appreciating the Role of the Unconscious in Situations of Patient Ambivalence]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R"/>
-        <updated>2022-05-26T03:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 53-55
-.]]></summary>
-        <author>
-            <name>Michael James Redinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Self-Illness Ambiguity and Self-Medication Ambiguity in Clinical Decision-Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R"/>
-        <updated>2022-05-26T03:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 58-60
-.]]></summary>
-        <author>
-            <name>Roy Dings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Is Short, Social Relations Are Complex: Bioethics as Typology Industry]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R"/>
-        <updated>2022-05-26T03:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 1-3
-.]]></summary>
-        <author>
-            <name>Samantha W. Stein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nudging, the Nocebo Effect, and Ambivalence]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R"/>
-        <updated>2022-05-26T03:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 63-65
-.]]></summary>
-        <author>
-            <name>Scott Gelfand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotion as a Signpost in Complicated Pediatric Decision-Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R"/>
-        <updated>2022-05-26T03:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 17-19
-.]]></summary>
-        <author>
-            <name>Wynne Morrison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambivalence: The Patient’s Perspective Counts]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R"/>
-        <updated>2022-05-26T03:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 55-57
-.]]></summary>
-        <author>
-            <name>Kathrin Ohnsorge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From “How” to “Why”: Reasons for Magnifying and Marginalizing Voices in Pediatric Decision-Making]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R"/>
-        <updated>2022-05-26T03:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Volume 22, Issue 6, June 2022, Page 19-21
-.]]></summary>
-        <author>
-            <name>Erica K. Salter</name>
         </author>
     </entry>
 </feed>

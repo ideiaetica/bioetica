@@ -6,6 +6,156 @@
       "siteUrl": "https://www.tandfonline.com/loi/uajb20?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075961?af=R",
+          "author": "Jason Karlawish",
+          "description": "Volume 22, Issue 7, July 2022, Page 86-87\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075961?af=R",
+          "publishedOn": "2022-06-23T04:22:35.000Z",
+          "wordCount": 342,
+          "title": "A Case of Patient Abandonment, or an Abandonment of Patients?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075960?af=R",
+          "author": "Tyler S. Gibb",
+          "description": "Volume 22, Issue 7, July 2022, Page 95-97\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075960?af=R",
+          "publishedOn": "2022-06-23T04:22:34.000Z",
+          "wordCount": 342,
+          "title": "Ethical Restraint Use With Incapable Absconding Patients: Goals, Proportionality, and Surrogates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075981?af=R",
+          "author": "Vasiliki Rahimzadeh",
+          "description": "Volume 22, Issue 7, July 2022, Page 68-70\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075981?af=R",
+          "publishedOn": "2022-06-23T04:22:32.000Z",
+          "wordCount": 342,
+          "title": "Regulatory Angels and Technology Demons? Making Sense of Evolving Realities in Health Data Privacy for the Digital Age",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075980?af=R",
+          "author": "Brent Mittelstadt",
+          "description": "Volume 22, Issue 7, July 2022, Page 65-68\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075980?af=R",
+          "publishedOn": "2022-06-23T04:22:30.000Z",
+          "wordCount": 342,
+          "title": "Protecting Health Privacy through Reasonable Inferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075969?af=R",
+          "author": "Tod Chambers",
+          "description": "Volume 22, Issue 7, July 2022, Page 33-35\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075969?af=R",
+          "publishedOn": "2022-06-23T04:22:28.000Z",
+          "wordCount": 342,
+          "title": "An All-Too-Human Enterprise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075968?af=R",
+          "author": "Joanna Demaree-Cotton",
+          "description": "Volume 22, Issue 7, July 2022, Page 1-3\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075968?af=R",
+          "publishedOn": "2022-06-23T04:22:25.000Z",
+          "wordCount": 342,
+          "title": "How to Use AI Ethically for Ethical Decision-Making",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075967?af=R",
+          "author": "Allen Coin",
+          "description": "Volume 22, Issue 7, July 2022, Page 41-43\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075967?af=R",
+          "publishedOn": "2022-06-23T04:22:23.000Z",
+          "wordCount": 342,
+          "title": "Using Algorithms to Make Ethical Judgements: METHAD vs. the ADC Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075966?af=R",
+          "author": "Joanna K. Malinowska",
+          "description": "Volume 22, Issue 7, July 2022, Page 76-78\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075966?af=R",
+          "publishedOn": "2022-06-23T04:22:20.000Z",
+          "wordCount": 342,
+          "title": "Health Privacy, Racialization, and the Causal Potential of Legal Regulations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075964?af=R",
+          "author": "Garson Leder",
+          "description": "Volume 22, Issue 7, July 2022, Page 87-90\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075964?af=R",
+          "publishedOn": "2022-06-23T04:22:20.000Z",
+          "wordCount": 342,
+          "title": "Alzheimer’s Disease and the Invisible Person: The Missing Patient Voice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075963?af=R",
+          "author": "Gerardo R. Maradiaga",
+          "description": "Volume 22, Issue 7, July 2022, Page 90-92\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075963?af=R",
+          "publishedOn": "2022-06-23T04:22:19.000Z",
+          "wordCount": 342,
+          "title": "Patient Abandonment in the Emergency Department?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075052?af=R",
+          "author": "Amelia Barwise",
+          "description": "Volume 22, Issue 7, July 2022, Page 46-49\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075052?af=R",
+          "publishedOn": "2022-06-23T04:22:17.000Z",
+          "wordCount": 342,
+          "title": "The AI Needed for Ethical Decision Making Does Not Exist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075051?af=R",
+          "author": "Vasiliki Rahimzadeh",
+          "description": "Volume 22, Issue 7, July 2022, Page 30-33\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075051?af=R",
+          "publishedOn": "2022-06-23T04:22:15.000Z",
+          "wordCount": 342,
+          "title": "Automating Justice: An Ethical Responsibility of Computational Bioethics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075050?af=R",
+          "author": "Aurelia Sauerbrei",
+          "description": "Volume 22, Issue 7, July 2022, Page 28-30\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075050?af=R",
+          "publishedOn": "2022-06-23T04:22:13.000Z",
+          "wordCount": 342,
+          "title": "AIgorithmic Ethics: A Technically Sweet Solution to a Non-Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075973?af=R",
+          "author": "Julie-Anne R. Smit",
+          "description": "Volume 22, Issue 7, July 2022, Page 79-81\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075973?af=R",
+          "publishedOn": "2022-06-23T04:22:12.000Z",
+          "wordCount": 342,
+          "title": "Protecting Privacy While Optimizing the Use of (Health)Data: The Importance of Measures and Safeguards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2087789?af=R",
+          "author": "Bryan Pilkington",
+          "description": "Volume 22, Issue 7, July 2022, Page 81-83\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2087789?af=R",
+          "publishedOn": "2022-06-23T04:22:10.000Z",
+          "wordCount": 342,
+          "title": "Disproof of Concept: Resolving Ethical Dilemmas Using Algorithms",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075972?af=R",
           "author": "Marisa A. Leib-Neri",
           "description": "Volume 22, Issue 7, July 2022, Page 70-72\n.",
@@ -194,196 +344,6 @@
           "wordCount": 258,
           "title": "The Ethics of Access: Reframing the Need for Abortion Care as a Health Disparity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R",
-          "author": "Andrew Childress",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075959?af=R",
-          "publishedOn": "2022-05-26T12:20:16.000Z",
-          "wordCount": 258,
-          "title": "From Bridge to Destination? Ethical Considerations Related to Withdrawal of ECMO Support over the Objections of Capacitated Patients",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R",
-          "author": "Bryanna Moore",
-          "description": "Volume 22, Issue 6, June 2022, Page 24-26\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063449?af=R",
-          "publishedOn": "2022-05-26T03:35:47.000Z",
-          "wordCount": 258,
-          "title": "When Parents Prefer to Defer: Is ‘Deferral’ Always Problematic in Pediatric Decision-Making?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R",
-          "author": "Ian D. Wolfe",
-          "description": "Volume 22, Issue 6, June 2022, Page 26-28\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063447?af=R",
-          "publishedOn": "2022-05-26T03:35:46.000Z",
-          "wordCount": 258,
-          "title": "When Clinicians Marginalize Decision-Makers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R",
-          "author": "Christina Lamb",
-          "description": "Volume 22, Issue 6, June 2022, Page 34-36\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063445?af=R",
-          "publishedOn": "2022-05-26T03:35:45.000Z",
-          "wordCount": 258,
-          "title": "Voice, Vulnerability and Dependency of the Child: Guiding Concepts for Shared-Decision Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R",
-          "author": "Yoram Unguru",
-          "description": "Volume 22, Issue 6, June 2022, Page 31-33\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063446?af=R",
-          "publishedOn": "2022-05-26T03:35:44.000Z",
-          "wordCount": 258,
-          "title": "Culturally Aware Communication Promotes Ethically Sensitive Care",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R",
-          "author": "Catherine Belling",
-          "description": "Volume 22, Issue 6, June 2022, Page 68-69\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2065381?af=R",
-          "publishedOn": "2022-05-26T03:35:43.000Z",
-          "wordCount": 258,
-          "title": "Respect for Readiness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R",
-          "author": "Mx Bex L. Forcier",
-          "description": "Volume 22, Issue 6, June 2022, Page 50-52\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063443?af=R",
-          "publishedOn": "2022-05-26T03:35:41.000Z",
-          "wordCount": 258,
-          "title": "One Goal, Two Roles: Clinicians and Clinical Ethicists Should Approach Patients’ Ambivalence Differently",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R",
-          "author": "Rachel Asher",
-          "description": "Volume 22, Issue 6, June 2022, Page 61-63\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063444?af=R",
-          "publishedOn": "2022-05-26T03:35:40.000Z",
-          "wordCount": 258,
-          "title": "Examining Interpersonal Factors in Patient Ambivalence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R",
-          "author": "Jaan Toelen",
-          "description": "Volume 22, Issue 6, June 2022, Page 29-30\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063441?af=R",
-          "publishedOn": "2022-05-26T03:35:39.000Z",
-          "wordCount": 258,
-          "title": "Blood is Thicker than Water, or is It? The Possible Role of Stepparents in Pediatric Decision Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R",
-          "author": "Armand H. Matheny Antommaria",
-          "description": "Volume 22, Issue 6, June 2022, Page 22-24\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063442?af=R",
-          "publishedOn": "2022-05-26T03:35:38.000Z",
-          "wordCount": 258,
-          "title": "Supporting Marginalized Decision-Maker’s Autonomy(ies)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R",
-          "author": "Andy Kondrat",
-          "description": "Volume 22, Issue 6, June 2022, Page 48-50\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063440?af=R",
-          "publishedOn": "2022-05-26T03:35:36.000Z",
-          "wordCount": 258,
-          "title": "One Patient, No Good Options: The Real Roots of Ambivalence in Medical Decision Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R",
-          "author": "Annie B. Friedrich",
-          "description": "Volume 22, Issue 6, June 2022, Page 66-67\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063438?af=R",
-          "publishedOn": "2022-05-26T03:35:35.000Z",
-          "wordCount": 258,
-          "title": "Exposing the Technological Roots of Ambivalence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R",
-          "author": "Michael James Redinger",
-          "description": "Volume 22, Issue 6, June 2022, Page 53-55\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063439?af=R",
-          "publishedOn": "2022-05-26T03:35:34.000Z",
-          "wordCount": 258,
-          "title": "Appreciating the Role of the Unconscious in Situations of Patient Ambivalence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R",
-          "author": "Roy Dings",
-          "description": "Volume 22, Issue 6, June 2022, Page 58-60\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063436?af=R",
-          "publishedOn": "2022-05-26T03:35:33.000Z",
-          "wordCount": 258,
-          "title": "The Role of Self-Illness Ambiguity and Self-Medication Ambiguity in Clinical Decision-Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R",
-          "author": "Samantha W. Stein",
-          "description": "Volume 22, Issue 6, June 2022, Page 1-3\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2071070?af=R",
-          "publishedOn": "2022-05-26T03:35:31.000Z",
-          "wordCount": 258,
-          "title": "Time Is Short, Social Relations Are Complex: Bioethics as Typology Industry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R",
-          "author": "Scott Gelfand",
-          "description": "Volume 22, Issue 6, June 2022, Page 63-65\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063437?af=R",
-          "publishedOn": "2022-05-26T03:35:31.000Z",
-          "wordCount": 258,
-          "title": "Nudging, the Nocebo Effect, and Ambivalence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R",
-          "author": "Wynne Morrison",
-          "description": "Volume 22, Issue 6, June 2022, Page 17-19\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063452?af=R",
-          "publishedOn": "2022-05-26T03:35:30.000Z",
-          "wordCount": 258,
-          "title": "Emotion as a Signpost in Complicated Pediatric Decision-Making",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R",
-          "author": "Kathrin Ohnsorge",
-          "description": "Volume 22, Issue 6, June 2022, Page 55-57\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063450?af=R",
-          "publishedOn": "2022-05-26T03:35:07.000Z",
-          "wordCount": 258,
-          "title": "Ambivalence: The Patient’s Perspective Counts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R",
-          "author": "Erica K. Salter",
-          "description": "Volume 22, Issue 6, June 2022, Page 19-21\n.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2063451?af=R",
-          "publishedOn": "2022-05-26T03:35:05.000Z",
-          "wordCount": 258,
-          "title": "From “How” to “Why”: Reasons for Magnifying and Marginalizing Voices in Pediatric Decision-Making",
-          "imageUrl": null
         }
       ]
     },
@@ -392,6 +352,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/uabr21",
       "siteUrl": "https://www.tandfonline.com/loi/uabr21?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090459?af=R",
+          "author": "Kimberley Serpico",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090459?af=R",
+          "publishedOn": "2022-06-24T02:39:22.000Z",
+          "wordCount": 342,
+          "title": "Institutional Review Board Use of Outside Experts: A National Survey",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R",
           "author": "Holly Fernandez Lynch",
