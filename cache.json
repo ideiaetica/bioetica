@@ -324,16 +324,6 @@
           "wordCount": 342,
           "title": "Is It Ethical to Mandate Vaccination among Incarcerated Persons? Consider Enforcement and Ask People Living in Prisons and Jails",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R",
-          "author": "Lynn M. Paltrow",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R",
-          "publishedOn": "2022-06-02T03:01:40.000Z",
-          "wordCount": 258,
-          "title": "Beyond Abortion: The Consequences of Overturning Roe",
-          "imageUrl": null
         }
       ]
     },
@@ -375,6 +365,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/ynbi20",
       "siteUrl": "https://www.tandfonline.com/loi/ynbi20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2090652?af=R",
+          "author": "Christopher M. Wojtulewicz",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2090652?af=R",
+          "publishedOn": "2022-06-30T04:52:06.000Z",
+          "wordCount": 342,
+          "title": "Analysing the Assisted Dying Bill [HL] debate 2021",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2088048?af=R",
           "author": "Antony Latham",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-01T01:46:32.662Z</updated>
+    <updated>2022-07-02T01:26:31.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analysing the Assisted Dying Bill [HL] debate 2021]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2090652?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2090652?af=R"/>
+        <updated>2022-06-30T04:52:06.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Christopher M. Wojtulewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Puberty Blockers for Children: Can They Consent?]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2088048?af=R</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Jonathan Herring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Abortion: The Consequences of Overturning Roe]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2075965?af=R"/>
-        <updated>2022-06-02T03:01:40.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Lynn M. Paltrow</name>
         </author>
     </entry>
 </feed>
