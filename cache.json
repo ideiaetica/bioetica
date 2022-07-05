@@ -358,7 +358,18 @@
       "title": "tandf: Global Bioethics: Table of Contents",
       "feedUrl": "https://www.tandfonline.com/feed/rss/rgbe20",
       "siteUrl": "https://www.tandfonline.com/loi/rgbe20?af=R",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/11287462.2022.2091503?af=R",
+          "author": "Moses Egesa",
+          "description": "Volume 33, Issue 1, December 2022, Page 78-102\n.",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/11287462.2022.2091503?af=R",
+          "publishedOn": "2022-07-04T03:10:02.000Z",
+          "wordCount": 342,
+          "title": "Ethical and practical considerations arising from community consultation on implementing controlled human infection studies using Schistosoma mansoni in Uganda",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "tandf: The New Bioethics: Table of Contents",
