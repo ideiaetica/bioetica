@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-08T01:40:53.693Z</updated>
+    <updated>2022-07-09T01:16:45.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
@@ -404,16 +404,6 @@
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Jennifer E. James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing Vulnerabilities in the Woman Patient/Doctor Encounter]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2072262?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2072262?af=R"/>
-        <updated>2022-06-09T03:59:34.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Jonathan Herring</name>
         </author>
     </entry>
 </feed>
