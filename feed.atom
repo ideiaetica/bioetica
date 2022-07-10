@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-09T01:16:45.856Z</updated>
+    <updated>2022-07-10T01:48:12.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patient Perspectives on the Use of Frailty, Cognitive Function, and Age in Kidney Transplant Evaluation]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R"/>
+        <updated>2022-07-08T05:35:42.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Prakriti Shrestha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opt-in Vs. Opt-out of Organ Donation in Scotland: Bioethical analysis]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2095714?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2095714?af=R"/>
+        <updated>2022-07-08T03:43:33.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Allister Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethical and practical considerations arising from community consultation on implementing controlled human infection studies using Schistosoma mansoni in Uganda]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/11287462.2022.2091503?af=R</id>

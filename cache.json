@@ -333,6 +333,16 @@
       "siteUrl": "https://www.tandfonline.com/loi/uabr21?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R",
+          "author": "Prakriti Shrestha",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R",
+          "publishedOn": "2022-07-08T05:35:42.000Z",
+          "wordCount": 342,
+          "title": "Patient Perspectives on the Use of Frailty, Cognitive Function, and Age in Kidney Transplant Evaluation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090459?af=R",
           "author": "Kimberley Serpico",
           "description": ".",
@@ -376,6 +386,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/ynbi20",
       "siteUrl": "https://www.tandfonline.com/loi/ynbi20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2095714?af=R",
+          "author": "Allister Lee",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2095714?af=R",
+          "publishedOn": "2022-07-08T03:43:33.000Z",
+          "wordCount": 342,
+          "title": "Opt-in Vs. Opt-out of Organ Donation in Scotland: Bioethical analysis",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2090652?af=R",
           "author": "Christopher M. Wojtulewicz",
