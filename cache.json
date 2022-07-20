@@ -304,26 +304,6 @@
           "wordCount": 342,
           "title": "The Principle of Autonomy in Biomedical- and Neuroethics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089277?af=R",
-          "author": "Giles Scofield",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089277?af=R",
-          "publishedOn": "2022-06-20T01:46:05.000Z",
-          "wordCount": 342,
-          "title": "On Certification’s Real Role",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089290?af=R",
-          "author": "Jennifer E. James",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089290?af=R",
-          "publishedOn": "2022-06-20T01:45:59.000Z",
-          "wordCount": 342,
-          "title": "Is It Ethical to Mandate Vaccination among Incarcerated Persons? Consider Enforcement and Ask People Living in Prisons and Jails",
-          "imageUrl": null
         }
       ]
     },
@@ -386,6 +366,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/ynbi20",
       "siteUrl": "https://www.tandfonline.com/loi/ynbi20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2101588?af=R",
+          "author": "Caterina Milo",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2101588?af=R",
+          "publishedOn": "2022-07-19T08:56:32.000Z",
+          "wordCount": 342,
+          "title": "The human embryo in vitro",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2095714?af=R",
           "author": "Allister Lee",

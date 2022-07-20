@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-19T01:49:27.134Z</updated>
+    <updated>2022-07-20T01:26:36.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The human embryo in vitro]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2101588?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2101588?af=R"/>
+        <updated>2022-07-19T08:56:32.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Caterina Milo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patient Perspectives on the Use of Frailty, Cognitive Function, and Age in Kidney Transplant Evaluation]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R</id>
@@ -404,26 +414,6 @@
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Barend W. Florijn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Certification’s Real Role]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089277?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089277?af=R"/>
-        <updated>2022-06-20T01:46:05.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Giles Scofield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Ethical to Mandate Vaccination among Incarcerated Persons? Consider Enforcement and Ask People Living in Prisons and Jails]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089290?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089290?af=R"/>
-        <updated>2022-06-20T01:45:59.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Jennifer E. James</name>
         </author>
     </entry>
 </feed>
