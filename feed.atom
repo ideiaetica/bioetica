@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-20T01:26:36.717Z</updated>
+    <updated>2022-07-21T01:26:25.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
@@ -404,16 +404,6 @@
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Holly Fernandez Lynch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Principle of Autonomy in Biomedical- and Neuroethics]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089291?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/15265161.2022.2089291?af=R"/>
-        <updated>2022-06-21T02:32:39.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Barend W. Florijn</name>
         </author>
     </entry>
 </feed>
