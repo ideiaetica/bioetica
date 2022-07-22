@@ -303,6 +303,26 @@
       "siteUrl": "https://www.tandfonline.com/loi/uabr21?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093423?af=R",
+          "author": "Annie B. Friedrich",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093423?af=R",
+          "publishedOn": "2022-07-20T02:28:02.000Z",
+          "wordCount": 342,
+          "title": "Perceived Benefits of Ethics Consultation Differ by Profession: A Qualitative Survey Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093422?af=R",
+          "author": "Trisha M. Prentice",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093422?af=R",
+          "publishedOn": "2022-07-20T02:27:54.000Z",
+          "wordCount": 342,
+          "title": "Addressing Moral Distress: lessons Learnt from a Non-Interventional Longitudinal Study on Moral Distress",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090460?af=R",
           "author": "Prakriti Shrestha",
           "description": ".",
@@ -320,16 +340,6 @@
           "publishedOn": "2022-06-24T02:39:22.000Z",
           "wordCount": 342,
           "title": "Institutional Review Board Use of Outside Experts: A National Survey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R",
-          "author": "Holly Fernandez Lynch",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R",
-          "publishedOn": "2022-06-22T07:18:37.000Z",
-          "wordCount": 342,
-          "title": "How Do Accredited Organizations Evaluate the Quality and Effectiveness of Their Human Research Protection Programs?",
           "imageUrl": null
         }
       ]

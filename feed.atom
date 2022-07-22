@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-21T01:26:25.254Z</updated>
+    <updated>2022-07-22T01:42:53.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perceived Benefits of Ethics Consultation Differ by Profession: A Qualitative Survey Study]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093423?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093423?af=R"/>
+        <updated>2022-07-20T02:28:02.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Annie B. Friedrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing Moral Distress: lessons Learnt from a Non-Interventional Longitudinal Study on Moral Distress]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093422?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093422?af=R"/>
+        <updated>2022-07-20T02:27:54.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Trisha M. Prentice</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The human embryo in vitro]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2101588?af=R</id>
@@ -394,16 +414,6 @@
 .]]></summary>
         <author>
             <name>Kenneth A. Berkowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Accredited Organizations Evaluate the Quality and Effectiveness of Their Human Research Protection Programs?]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2090641?af=R"/>
-        <updated>2022-06-22T07:18:37.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Holly Fernandez Lynch</name>
         </author>
     </entry>
 </feed>
