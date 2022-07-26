@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ideiaetica.github.io/bioetica/index.html</id>
     <title>bioetica.com.br</title>
-    <updated>2022-07-25T01:27:57.606Z</updated>
+    <updated>2022-07-26T01:46:28.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ideiaetica.github.io/bioetica/index.html"/>
     <link rel="self" href="https://ideiaetica.github.io/bioetica/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unauthorized Pelvic Exams are Sexual Assault]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2102132?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/20502877.2022.2102132?af=R"/>
+        <updated>2022-07-25T07:45:59.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Perry Hendricks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perceived Benefits of Ethics Consultation Differ by Profession: A Qualitative Survey Study]]></title>
         <id>https://www.tandfonline.com/doi/full/10.1080/23294515.2022.2093423?af=R</id>
